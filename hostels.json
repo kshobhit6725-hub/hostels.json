@@ -1,9 +1,9 @@
 [
   {
-    "name": "Test Hostel",
-    "rent": 6500,
+    "name": "VISIBLE TEST",
+    "rent": 6000,
     "food": true,
     "wifi": true,
-    "rank": 8.8
+    "rank": 9
   }
 ]
