@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "Test Hostel",
+    "rent": 6500,
+    "food": true,
+    "wifi": true,
+    "rank": 8.8
+  }
+]
